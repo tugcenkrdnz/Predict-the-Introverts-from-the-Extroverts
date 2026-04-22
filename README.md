@@ -1,4 +1,4 @@
-# 🧠 Kişilik Tipi Tahmin Uygulaması (ML Project-Classification)
+# 🧠 Kaggle Playground S5E7 - Predict the Introverts from the Extroverts  (Kişilik Tipi Tahmin Uygulaması)
 
 Bu proje, bir kişinin günlük alışkanlıklarına bakarak **Introvert (İçe Dönük)** veya **Extrovert (Dışa Dönük)** olup olmadığını tahmin eden bir Makine Öğrenmesi modelidir.
 
